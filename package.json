@@ -1,0 +1,20 @@
+{
+  "name": "mentoriaCypress",
+  "version": "1.0.0",
+  "description": "This is a repository to study Cypress.\r Wagner Test git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelFGomes/mentoriaCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelFGomes/mentoriaCypress/issues"
+  },
+  "homepage": "https://github.com/RaphaelFGomes/mentoriaCypress#readme"
+}
