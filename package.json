@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/RaphaelFGomes/mentoriaCypress/issues"
   },
-  "homepage": "https://github.com/RaphaelFGomes/mentoriaCypress#readme",
-  "devDependencies": {
-    "cypress": "^10.3.1"
-  }
+  "homepage": "https://github.com/RaphaelFGomes/mentoriaCypress#readme"
 }
